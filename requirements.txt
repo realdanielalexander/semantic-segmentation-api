@@ -1,0 +1,10 @@
+tensorflow==2.8.0
+numpy
+opencv-python-headless
+lxml
+tqdm
+flask
+seaborn
+pillow
+gunicorn==20.0.4
+flask-cors
